@@ -22,7 +22,7 @@ This shows ~44% of house price variance is explained by income alone — solid f
 
 ## 📉 Output Visualization
 
-![SVR Prediction Plot](images/result_plot.png)
+[![SVR Prediction Plot](images/result_plot.png)](https://github.com/Rushi-12-11/svr-house-price-prediction/blob/9e23a43fee45e82feabc35a593a6e35a6b52fa86/result_plot.png.png)
 
 ## 🧪 How to Run
 
